@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2d9d855-7442-478b-84f6-a7c16fb86cbc" name="Changes" comment="">
+    <list default="true" id="c2d9d855-7442-478b-84f6-a7c16fb86cbc" name="Changes" comment="Implement tts engine and saytime() function">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yakuza_ai.py" beforeDir="false" afterPath="$PROJECT_DIR$/yakuza_ai.py" afterDir="false" />
     </list>
@@ -64,6 +64,19 @@
       <option name="presentableId" value="Default" />
       <updated>1728666376773</updated>
     </task>
+    <task id="LOCAL-00001" summary="Implement tts engine and saytime() function">
+      <option name="closed" value="true" />
+      <created>1728753010241</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728753010241</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implement tts engine and saytime() function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement tts engine and saytime() function" />
   </component>
 </project>
